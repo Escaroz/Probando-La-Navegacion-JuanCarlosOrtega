@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaNavegacion</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btnF2">Navegar a F2</string>
+    <string name="btnF3">Navegar a F3</string>
+    <string name="btnF4">Navegar a F4</string>
+</resources>
